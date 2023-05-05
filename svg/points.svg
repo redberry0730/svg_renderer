@@ -1,0 +1,17 @@
+<svg width="9px" height="5px" viewBox="0 0 8 4">
+  <point x="0" y="0" color="rgb(0,0,0)" />
+  <point x="0" y="2" color="rgb(0,0,120)" />
+  <point x="0" y="4" color="rgb(0,0,240)" />
+  <point x="2" y="0" color="rgb(60,0,0)" />
+  <point x="2" y="2" color="rgb(60,0,120)" />
+  <point x="2" y="4" color="rgb(60,0,240)" />
+  <point x="4" y="0" color="rgb(120,0,0)" />
+  <point x="4" y="2" color="rgb(120,0,120)" />
+  <point x="4" y="4" color="rgb(120,0,240)" />
+  <point x="6" y="0" color="rgb(180,0,0)" />
+  <point x="6" y="2" color="rgb(180,0,120)" />
+  <point x="6" y="4" color="rgb(180,0,240)" />
+  <point x="8" y="0" color="rgb(240,0,0)" />
+  <point x="8" y="2" color="rgb(240,0,120)" />
+  <point x="8" y="4" color="rgb(240,0,240)" />
+</svg>
